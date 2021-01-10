@@ -4,7 +4,7 @@
 
 ## Demo
 
-<p>Check demo here: <a href="https://onderakbulut.github.io/Bootstrap-Cv-Resume/index.html" rel="nofollow">Bootstrap Cv</a></p>
+<p>Check demo here: <a target="_blank" href="https://onderakbulut.github.io/Bootstrap-Cv-Resume/index.html" rel="nofollow">Bootstrap Cv</a></p>
 
 ## Features
 - Create easy resume
