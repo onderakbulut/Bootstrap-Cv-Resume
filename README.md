@@ -1,4 +1,4 @@
-<h1 align="center">Bootstrap-Cv-Resume</h1>
+<h1 align="center">Bootstrap Cv Resume</h1>
 
 [![](https://onderakbulut.github.io/Bootstrap-Cv-Resume/images/BootstrapResume.jpg)](https://onderakbulut.github.io/Bootstrap-Cv-Resume/index.html)
 
